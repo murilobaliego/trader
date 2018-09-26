@@ -201,7 +201,7 @@ def parse_args(pargs=None):
         )
     )
 
-    parser.add_argument('--data0', default='../../datas/2005-2006-day-001.txt',
+    parser.add_argument('--data0', default='../data/PETR4.SA.csv',
                         required=False, help='Data to read in')
 
     # Strategy to choose

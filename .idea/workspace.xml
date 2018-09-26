@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4335097c-ab04-4238-a855-8d579911e2d0" name="Default" comment="" />
+    <list default="true" id="4335097c-ab04-4238-a855-8d579911e2d0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/bollinger_bands_emuriba.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/bollinger_bands_emuriba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/bollinger_bands_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/macd-settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/macd_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/petr4_backtrader_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/petr4_backtrader_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/petr4_macd.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/petr4_macd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/pivot_point_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/pivot_point_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/stop-trading.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/stop-trading.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bollinger_bands_example.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_example.py">
+      <file leaf-file-name="bollinger_bands_emuriba.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_emuriba.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
+            <state relative-caret-position="391">
+              <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bollinger_bands_with_alphavantage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_with_alphavantage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
               <caret line="110" column="27" selection-start-line="110" selection-start-column="27" selection-end-line="110" selection-end-column="27" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -24,16 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alpha_vantage_tst.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examples/alpha_vantage_tst.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-174">
-              <caret line="2" column="93" selection-start-line="2" selection-start-column="93" selection-end-line="2" selection-end-column="93" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="petr4_backtrader.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="petr4_backtrader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/petr4_backtrader.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -41,6 +52,27 @@
               <folding>
                 <element signature="e#0#108#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="petr4_backtrader_plot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/petr4_backtrader_plot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alpha_vantage_tst.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/alpha_vantage_tst.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-309">
+              <caret line="2" column="93" selection-start-line="2" selection-start-column="93" selection-end-line="2" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -53,6 +85,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,6 +104,13 @@
         <option value="$PROJECT_DIR$/test_alpha" />
         <option value="$PROJECT_DIR$/bollinger_bands_example.py" />
         <option value="$PROJECT_DIR$/examples/petr4_backtrader.py" />
+        <option value="$PROJECT_DIR$/examples/petr4_backtrader_plot.py" />
+        <option value="$PROJECT_DIR$/examples/petr4_macd.py" />
+        <option value="$PROJECT_DIR$/examples/pivot_point_example.py" />
+        <option value="$PROJECT_DIR$/examples/stop-trading.py" />
+        <option value="$PROJECT_DIR$/examples/macd_example.py" />
+        <option value="$PROJECT_DIR$/examples/macd-settings.py" />
+        <option value="$PROJECT_DIR$/examples/bollinger_bands_emuriba.py" />
       </list>
     </option>
   </component>
@@ -84,6 +126,7 @@
     <option name="width" value="1855" />
     <option name="height" value="1204" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.petr4_backtrader">
+  <component name="RunManager" selected="Python.petr4_macd">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -153,55 +196,37 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="alpha_vantage_tst" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mybacktrader" />
+    <configuration name="macd-settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/alpha_vantage_tst.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/macd-settings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="bollinger_bands_emuriba" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mybacktrader" />
+    <configuration name="macd_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/bollinger_bands_emuriba.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="bollinger_bands_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mybacktrader" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/bollinger_bands_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/macd_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,15 +250,33 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="petr4_macd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mybacktrader" />
+    <configuration name="petr4_backtrader_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/petr4_backtrader_plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="petr4_macd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -266,19 +309,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.petr4_macd" />
-      <item itemvalue="Python.bollinger_bands_example" />
-      <item itemvalue="Python.bollinger_bands_emuriba" />
-      <item itemvalue="Python.alpha_vantage_tst" />
       <item itemvalue="Python.petr4_backtrader" />
+      <item itemvalue="Python.macd-settings" />
+      <item itemvalue="Python.macd_example" />
+      <item itemvalue="Python.petr4_backtrader_plot" />
+      <item itemvalue="Python.petr4_macd" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.petr4_backtrader" />
-        <item itemvalue="Python.alpha_vantage_tst" />
-        <item itemvalue="Python.bollinger_bands_example" />
-        <item itemvalue="Python.bollinger_bands_emuriba" />
         <item itemvalue="Python.petr4_macd" />
+        <item itemvalue="Python.petr4_backtrader_plot" />
+        <item itemvalue="Python.petr4_backtrader" />
+        <item itemvalue="Python.macd_example" />
+        <item itemvalue="Python.macd-settings" />
       </list>
     </recent_temporary>
   </component>
@@ -306,8 +349,8 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.0" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293023" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991612" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3283721" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -341,7 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_example.py">
+    <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_with_alphavantage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1740">
           <caret line="121" column="44" selection-start-line="121" selection-start-column="44" selection-end-line="121" selection-end-column="44" />
@@ -382,6 +425,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#108#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -426,48 +472,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2355">
           <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/petr4_backtrader_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/macd-settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3345">
-          <caret line="223" column="43" selection-start-line="223" selection-start-column="43" selection-end-line="223" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/pivot_point_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="17" lean-forward="true" selection-start-line="16" selection-end-line="26" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/macd_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/stop-trading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="243" lean-forward="true" selection-start-line="243" selection-end-line="243" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_emuriba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="111" column="4" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#108#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -485,19 +492,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/petr4_macd.py">
+    <entry file="file://$PROJECT_DIR$/examples/pivot_point_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="193" column="16" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="16" />
+        <state relative-caret-position="525">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
           <folding>
             <element signature="e#0#108#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_example.py">
+    <entry file="file://$PROJECT_DIR$/examples/stop-trading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
+        <state relative-caret-position="426">
+          <caret line="203" column="64" selection-start-line="203" selection-start-column="64" selection-end-line="203" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/examples.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/petr4_macd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="188" column="41" selection-start-line="188" selection-start-column="41" selection-end-line="188" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/alpha_vantage_tst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="2" column="93" selection-start-line="2" selection-start-column="93" selection-end-line="2" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_emuriba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/macd-settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="134" column="17" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+          <folding>
+            <element signature="e#910#1018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/macd_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1376">
+          <caret line="164" column="41" selection-start-line="164" selection-start-column="41" selection-end-line="164" selection-end-column="41" />
+          <folding>
+            <element signature="e#910#1018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/bollinger_bands_with_alphavantage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
           <caret line="110" column="27" selection-start-line="110" selection-start-column="27" selection-end-line="110" selection-end-column="27" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -505,17 +569,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/alpha_vantage_tst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="2" column="93" selection-start-line="2" selection-start-column="93" selection-end-line="2" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/petr4_backtrader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="131" column="41" selection-start-line="131" selection-start-column="41" selection-end-line="131" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/petr4_backtrader_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
           <folding>
             <element signature="e#0#108#0" expanded="true" />
           </folding>

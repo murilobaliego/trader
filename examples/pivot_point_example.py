@@ -60,7 +60,7 @@ def parse_args():
         description='Sample for pivot point and cross plotting')
 
     parser.add_argument('--data', required=False,
-                        default='data/PETR4.SA.csv',
+                        default='../data/PETR4.SA.csv',
                         help='Data to be read in')
 
     parser.add_argument('--plot', required=False, action='store_true',
